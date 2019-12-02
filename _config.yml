@@ -1,0 +1,19 @@
+title: "XYZ"
+description: "PQR."
+
+search: false
+
+author:
+  name     : "Your Name"
+  avatar   : "/abdo_airport.png"
+  bio      : "Smething"
+  location : "Amsterdam, NL"
+
+footer:
+
+plugins:
+  - jekyll-include-cache
+
+remote_theme: mmistakes/minimal-mistakes
+
+# Defaults
