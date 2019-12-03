@@ -15,38 +15,37 @@ title: Workshop Program.
 The day is divided into two parts: Morning session covers Elicitation and afternoon session covers Capture.
 
 ## Schedule
----
 
-### 09:00 - Brief welcome to the workshop
+### 09:00 - Welcome
 
-### 09:10 - Speed dating session for participants, highlighting (a) why they attended this workshop and (b) sharing a story of own elicitation challenges
+### 09:10 - Speed dating session
 
-### 09:30 - Lightening talks (3-4 min. per participant)
+### 09:30 - Lightening talks (3-4 min. pp)
 
 - **Talks TBA**	<!-- - NAME [pdf](https://){: .paper} -->
 
 ### 10:30 - Morning break
 
-### 11:00 - Elicitation method sketching (in 4-5 groups)
+### 11:00 - Elicitation method sketching (4-5 groups)
 
-### 12:00 - Group presentations ( 7 min. per group)
+### 12:00 - Group presentations (7 min. per group)
 
 ---
-### 12:30 - Lunch (organizers will arrange joint lunch for participants)
+### 12:30 - Lunch
 ---
 
-### 14:00 - Organizers give survey of sensing and annotation techniques
+### 14:00 - Survey of sensing and annotation techniques
 
-### 14:30 - Open discussion about additional techniques
+### 14:30 - Discussion about additional techniques
 
 ### 15:00 - Afternoon break
 
-### 15:30 - Mapping session (in 4-5 groups): which elicitation method applies when, where, and paired with which sensing / annotation technique
+### 15:30 - Mapping session (in 4-5 groups)
 
-### 16:30 - Wrap up on workshop output, actions for follow- up activities
+### 16:30 - Wrap up
 
-### 17:00+ - After workshop wrap up and exchange of con- tacts, further informal discussion continues during drinks and dinner
----
+### 17:00+ - Informal discussion + drinks/dinner
+
 
 ## Workshop Papers & Posters
 
