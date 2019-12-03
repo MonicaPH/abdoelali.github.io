@@ -12,7 +12,10 @@ layout: single
 title: Workshop Program.
 ---
 
-### Elicitation
+The day is divided into two parts: Morning session covers Elicitation and afternoon session covers Capture.
+
+## Schedule
+---
 
 ### 09:00 - Brief welcome to the workshop
 
@@ -29,12 +32,8 @@ title: Workshop Program.
 ### 12:00 - Group presentations ( 7 min. per group)
 
 ---
-
 ### 12:30 - Lunch (organizers will arrange joint lunch for participants)
-
 ---
-
-### Capture
 
 ### 14:00 - Organizers give survey of sensing and annotation techniques
 
@@ -47,9 +46,8 @@ title: Workshop Program.
 ### 16:30 - Wrap up on workshop output, actions for follow- up activities
 
 ### 17:00+ - After workshop wrap up and exchange of con- tacts, further informal discussion continues during drinks and dinner
+---
 
-
-
-## Workshop Posters
+## Workshop Papers & Posters
 
 **TBA**	<!-- Name (affil) - [pdf](https://){: .poster} -->
