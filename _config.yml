@@ -1,11 +1,11 @@
 title: "MEEC Workshop at CHI 2020"
 description: "Towards better methods for Momentary Emotion Elicitation and Capture."
 
-search: false
+# search: false
 
 author:
   name     : "Your Name"
-  avatar   : "/logo.png"
+  avatar   : "logo.png"
   bio      : "Something"
   location : "Amsterdam, NL"
 

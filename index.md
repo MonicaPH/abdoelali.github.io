@@ -1,7 +1,4 @@
 ---
-header:
-  image: ./logo.png
-  teaser: ./logo.png
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
