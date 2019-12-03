@@ -8,8 +8,6 @@ sidebar:
   - extra: ""
     text: "Workshop: 25 or 26-April-2020"
 
-header: logo.png
-
 layout: single
 title: Momentary Emotion Elicitation & Capture (MEEC) Workshop.
 ---
