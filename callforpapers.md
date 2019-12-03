@@ -17,14 +17,14 @@ To train machines to sensibly detect and recognize human emotions, we need valid
 
 We seek contributions across disciplines that explore how emotions can be naturally elicited and captured in the moment. Topics include:
 
-Elicitation:
+**Elicitation:**
 * multi-modal (e.g., film, music) and multi-sensory (e.g., auditory, taste, olfactory) elicitation
 * emotion elicitation across domains (e.g., automotive, healthcare)
 * elicitation and immersiveness (e.g., AR, VR)
 * elicitation over time (e.g., mood)
 * ethical considerations
 
-Capture:
+**Capture:**
 * emotion models (dimensional, discrete)
 * annotation modalities (e.g., speech, gestures) and tools (e.g., questionnaires, ESMs)
 * devices (e.g., mobile, wearable) and sensors (e.g., RGB / thermal cameras, EEG)
@@ -32,4 +32,4 @@ Capture:
 
 
 ## How to Participate
-We invite position papers, posters, and demos (2-8 pages, incl. references) that present emotion elicitation and/or capture methods. Submissions will be peer-reviewed by 2 peers, and selected on their potential to spark discussion. Submissions should be in the [SIGCHI Extended Abstracts](https://chi2020.acm.org/authors/chi-proceedings-format/){:target="_blank"} format and submitted in PDF through [Easychair] (https://easychair.org/conferences/?conf=meec2020){:target="_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop and one day of the conference.
+We invite position papers, posters, and demos (2-8 pages, incl. references) that present emotion elicitation and/or capture methods. Submissions will be peer-reviewed by 2 peers, and selected on their potential to spark discussion. Submissions should be in the [SIGCHI Extended Abstracts](https://chi2020.acm.org/authors/chi-proceedings-format/){:target="_blank"} format and submitted in PDF through [Easychair](https://easychair.org/conferences/?conf=meec2020){:target="_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop and one day of the conference.
