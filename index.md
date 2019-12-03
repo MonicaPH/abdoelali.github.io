@@ -1,4 +1,7 @@
 ---
+header:
+  image: ./logo.png
+  teaser: ./logo.png
 sidebar:
   - title: "Important Dates:"
     image_alt: "in the moment emotions."
@@ -8,13 +11,11 @@ sidebar:
   - extra: ""
     text: "Workshop: 25 or 26-April-2020"
 
-header: logo.png
-
 layout: single
 title: Momentary Emotion Elicitation & Capture (MEEC) Workshop.
 ---
 
-<img src="logo.png" alt="logo" width="100"/>
+<!-- <img src="logo.png" alt="logo" width="100"/> -->
 
 
 
