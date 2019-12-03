@@ -10,6 +10,7 @@ sidebar:
 
 layout: single
 title: Call for Papers!
+
 ---
 
 
