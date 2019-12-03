@@ -12,7 +12,7 @@ layout: single
 title: Momentary Emotion Elicitation & Capture (MEEC) Workshop.
 ---
 
-<img src="logo.png" alt="logo" width="100"/>
+<!-- <img src="logo.png" alt="logo" width="100"/> -->
 
 
 
