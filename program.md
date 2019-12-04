@@ -12,7 +12,6 @@ layout: single
 title: Workshop Program.
 ---
 
-{::options auto_ids="false" /}
 
 The day is divided into two parts: Morning session covers Elicitation and afternoon session covers Capture.
 
@@ -24,7 +23,7 @@ The day is divided into two parts: Morning session covers Elicitation and aftern
 
 ### 09:30 - Lightening talks (3-4 min. pp)
 
-- **Talks TBA**	<!-- - NAME [pdf](https://){: .paper} -->
+- Talks TBA	<!-- - NAME [pdf](https://){: .paper} -->
 
 ### 10:30 - Morning break
 
@@ -49,6 +48,6 @@ The day is divided into two parts: Morning session covers Elicitation and aftern
 ### 17:00+ - Informal discussion + drinks/dinner
 
 
-## Workshop Papers & Posters
+## Workshop Papers, Demos & Posters
 
-**TBA**	<!-- Name (affil) - [pdf](https://){: .poster} -->
+TBA	<!-- Name (affil) - [pdf](https://){: .poster} -->

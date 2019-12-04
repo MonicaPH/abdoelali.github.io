@@ -12,6 +12,7 @@ layout: single
 title: Call for Papers!
 
 ---
+<!-- {::options auto_ids="false" /} -->
 
 
 To train machines to sensibly detect and recognize human emotions, we need valid emotion ground truths. A fundamental challenge here is the momentary emotion elicitation and capture (MEEC) from individuals continuously and in real-time, without adversely affecting user experience. In this one-day CHI 2020 workshop, we will (a) explore and define novel elicitation tasks (b) survey sensing and annotation techniques (c) create a taxonomy of when and where to apply an elicitation method.
@@ -34,3 +35,9 @@ We seek contributions across disciplines that explore how emotions can be natura
 
 ## How to Participate
 We invite position papers, posters, and demos (2-8 pages, incl. references) that present emotion elicitation and/or capture methods. Submissions will be peer-reviewed by 2 peers, and selected on their potential to spark discussion. Submissions should be in the [SIGCHI Extended Abstracts](https://chi2020.acm.org/authors/chi-proceedings-format/){:target="\_blank"} format and submitted in PDF through [Easychair](https://easychair.org/conferences/?conf=meec2020){:target="\_blank"}. Accepted submissions will be made available on the workshop website. At least one author must register for the workshop and one day of the conference.
+
+[Submit [EasyChair]](https://easychair.org/conferences/?conf=meec2020){: .btn .btn--warning}{:target="\_blank"}
+
+## Contact
+
+For any additional questions, please contact us at [abdallah.elali@gmail.com](mailto:abdallah.elali@gmail.com)
