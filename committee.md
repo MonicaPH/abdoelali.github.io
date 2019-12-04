@@ -24,7 +24,7 @@ title: Organizers & Program Committee
 
 ![smiley](./assets/imgs/abdallah.jpg){:height="80px" width="80px"} &nbsp; **Abdallah El Ali**{:style="color: black"} - CWI, Amsterdam
 
-Abdallah El Ali is a tenure-track researcher at the Distributed & Interactive Systems group at Centrum Wiskunde & Informatica (CWI) in the Netherlands. His research focuses on eliciting, capturing, and predicting momentary human emotion and behavior. He combines advances in HCI and machine learning to enable pervasive affect sensing in and beyond mobile interactions. Website: [https://abdoelali.com/](https://abdoelali.com/){:target="\_blank"}
+Abdallah El Ali is a tenure-track researcher at the [Distributed & Interactive Systems](https://www.dis.cwi.nl/) group at [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/) in the Netherlands. His research focuses on focuses on human activity sensing and recognition, mobile and wearable interaction techniques, and multimodal interaction, unified by the goal of further understanding human behavior and emotion. He combines advances in HCI and machine learning to enable pervasive affect sensing in and beyond mobile interactions. Website: [https://abdoelali.com/](https://abdoelali.com/){:target="\_blank"}
 
 ---
 
