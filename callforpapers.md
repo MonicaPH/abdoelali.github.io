@@ -7,9 +7,15 @@ sidebar:
     text: "Papers Decisions: 28-Feb-2020"
   - extra: ""
     text: "Workshop: 25 or 26-April-2020"
+  - extra: ""
+    text: "<br>"
+  - extra: ""
+    text: "Location: TBA"
+  - extra: ""
+    text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 
 layout: single
-title: Call for Papers!
+title: Call for Papers
 
 ---
 <!-- {::options auto_ids="false" /} -->
@@ -40,4 +46,4 @@ We invite position papers, posters, and demos (2-8 pages, incl. references) that
 
 ## Contact
 
-For any additional questions, please contact us at [abdallah.elali@gmail.com](mailto:abdallah.elali@gmail.com)
+For any additional questions, please contact us at [aea@cwi.nl](mailto:aea@cwi.nl)

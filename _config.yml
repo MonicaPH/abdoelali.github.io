@@ -1,6 +1,6 @@
 
 title: "MEEC Workshop at CHI 2020"
-logo: "logo2.png"
+logo: "./assets/imgs/logo2.png"
 description: "Towards better methods for Momentary Emotion Elicitation and Capture."
 
 # minimal_mistakes_skin: "contrast"
@@ -8,7 +8,7 @@ search: false
 
 author:
   name     : "MEEC 2020 WS"
-  avatar   : "/logo2.png"
+  avatar   : "./assets/imgs/logo2.png"
   bio      : "Something"
   location : "Somewhere"
 

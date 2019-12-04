@@ -7,18 +7,15 @@ sidebar:
     text: "Papers Decisions: 28-Feb-2020"
   - extra: ""
     text: "Workshop: 25 or 26-April-2020"
-
+  - extra: ""
+    text: "<br>"
+  - extra: ""
+    text: "Location: TBA"
+  - extra: ""
+    text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
 layout: single
-title: Workshop Goals.
+title: Workshop Goals
 
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 <!-- ## MEEC challenges -->
