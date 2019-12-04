@@ -1,6 +1,6 @@
 
-include: ["_pages"]
-
+markdown: kramdown
+auto_ids: false
 
 title: "MEEC Workshop at CHI 2020"
 description: "Towards better methods for Momentary Emotion Elicitation and Capture."

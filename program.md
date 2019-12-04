@@ -12,6 +12,8 @@ layout: single
 title: Workshop Program.
 ---
 
+{::options auto_ids="false" /}
+
 The day is divided into two parts: Morning session covers Elicitation and afternoon session covers Capture.
 
 ## Schedule
