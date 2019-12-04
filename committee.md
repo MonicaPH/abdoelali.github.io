@@ -13,7 +13,7 @@ sidebar:
     text: "Location: TBA"
   - extra: ""
     text: "Contact: [aea@cwi.nl](mailto:aea@cwi.nl)"
-    
+
 layout: single
 title: Organizers & Program Committee
 ---
@@ -28,7 +28,7 @@ Abdallah El Ali is a tenure-track researcher at the Distributed & Interactive Sy
 
 ---
 
-![smiley](./assets/imgs/mon.png){:height="80px" width="80px"} &nbsp; **Monica Perusquía-Hernández**{:style="color: black"} - NTT , Japan
+![smiley](./assets/imgs/mon.jpg){:height="80px" width="80px"} &nbsp; **Monica Perusquía-Hernández**{:style="color: black"} - NTT , Japan
 
 Monica Perusquía-Hernández is a Research Associate at NTT Communication Science Laboratories, Japan. Her research interests include affective computing, bio-signal processing, augmented human technology, and artificial intelligence. In particular, she is interested in sensing techniques such as Computer Vision, EMG and Skin Conductance to assess emotion and facial expression congruence when assessing user experience.
 
