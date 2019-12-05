@@ -18,7 +18,6 @@ layout: single
 title: Organizers & Program Committee
 ---
 
-<!-- ![](offis_photo_el_ali.jpg =100x) -->
 <!-- <img src="offis_photo_el_ali.jpg" width="200"> -->
 <br>
 
@@ -60,7 +59,7 @@ Alexander Meschtscherjakov is Associate Professor at the Center for Human-Comput
 
 ![smiley](./assets/imgs/denzil.jpeg){:height="80px" width="80px"} &nbsp;&nbsp; **Denzil Ferreira**{:style="color: black"} - Uni Oulu, Finland
 
-Denzil Ferreira is an Associate Professor in Mobile Computing. His research interests are on technology-driven human behavior sensing and modeling, juxtaposing methods from large-scale data analysis, sensor instrumentation, applied machine learning, mobile and ubiquitous computing to understand and study a variety of human behavioral and social phenomena in naturalistic settings.
+Denzil Ferreira is an Associate Professor in Mobile Computing. He acts as Deputy Director at the [Center for Ubiquitous Computing](http://ubicomp.oulu.fi), and is the lead PI at [UBICOMP-CIA]( https://www.ubicomp-cia.com). His research interests are on technology-driven human behavior sensing and modeling, juxtaposing methods from large-scale data analysis, sensor instrumentation, applied machine learning, mobile and ubiquitous computing to understand and study a variety of human behavioral and social phenomena in naturalistic settings.
 
 ---
 
