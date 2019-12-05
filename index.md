@@ -52,6 +52,8 @@ We invite position papers, posters, and demos (2-8 pages, incl. references) that
 <a href="https://www.oulu.fi/university/"><img src="./assets/imgs/logos/oulu.png" width="160"></a> &nbsp;
 <a href="https://www.uni-regensburg.de/"><img src="./assets/imgs/logos/regensburg.png" width="150"></a> &nbsp;
 
+List of organizers [here](committee).
+
 ## Contact
 
 For any additional questions, please contact us at [aea@cwi.nl](mailto:aea@cwi.nl)
