@@ -29,7 +29,7 @@ Abdallah El Ali is a tenure-track researcher at the [Distributed & Interactive S
 
 ![smiley](./assets/imgs/mon.jpg){:height="80px" width="80px"} &nbsp; **Monica Perusquía-Hernández**{:style="color: black"} - NTT , Japan
 
-Monica Perusquía-Hernández is a Research Associate at NTT Communication Science Laboratories, Japan. Her research interests include affective computing, bio-signal processing, augmented human technology, and artificial intelligence. In particular, she is interested in sensing techniques such as Computer Vision, EMG and Skin Conductance to assess emotion and facial expression congruence when assessing user experience.
+Monica Perusquía-Hernández is a Research Associate at NTT Communication Science Laboratories, Japan. Her research interests include affective computing, bio-signal processing, augmented human technology, and artificial intelligence. In particular, she is interested in sensing techniques such as Computer Vision, EMG and Skin Conductance to assess emotion and facial expression congruence when assessing user experience. Website: [http://monicaperusquia.com/](http://monicaperusquia.com/){:target="\_blank"}
 
 ---
 

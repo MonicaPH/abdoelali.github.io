@@ -45,7 +45,7 @@ We invite position papers, posters, and demos (2-8 pages, incl. references) that
 ## Organization
 
 <a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/logos/cwi.png" width="140"></a> &nbsp;
-<a href="http://www.kecl.ntt.co.jp/english/index.html"><img src="./assets/imgs/logos/ntt_.jpeg" width="140"> </a> &nbsp;
+<a href="http://www.kecl.ntt.co.jp/english/index.html"><img src="./assets/imgs/logos/ntt.png" width="120"> </a> &nbsp;
 <a href="https://www.intel.com/content/www/us/en/research/overview.html"><img src="./assets/imgs/logos/intel.png" width="90"> </a> &nbsp;
 <a href="https://www.unibw.de/home-en"><img src="./assets/imgs/logos/bum.png" width="160"></a> &nbsp; <br>
 <a href="https://www.uni-salzburg.at/index.php?id=52&L=1"><img src="./assets/imgs/logos/salzburg.png" width="140"></a> &nbsp;
